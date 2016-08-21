@@ -23,7 +23,7 @@ end
     sample(:ambi_choir)
     sleep(1)
   end
-  wash(60)
+  wash(40)
   dry(:ambi_choir)
 end
 2.times do
